@@ -10,9 +10,7 @@
 
 [![Academic](https://img.shields.io/badge/Education-B.Tech%20CSE%20%28Year%201%29-667eea?style=flat-square)](https://github.com)
 [![Location](https://img.shields.io/badge/📍-Government%20Engineering%20College%2C%20Palamu-764ba2?style=flat-square)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adarshkumar.dev-667eea?style=for-the-badge&logo=vercel)](https://adarshkumar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adarshkumar66343)
-
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail)](mailto:adarshkumar66343@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adarshkumar66343-181717?style=for-the-badge&logo=github)](https://github.com/adarshkumar66343-a11y)
 
@@ -136,7 +134,7 @@ AI-powered learning companion that provides personalized study plans, interactiv
 Machine learning project that predicts handwritten digits using probability-based classification techniques with MNIST dataset.
 
 | Aspect | Details |
-|--------|----------|
+|--------|---------||
 | **Tech Stack** | Python, TensorFlow, NumPy, Scikit-learn |
 | **Accuracy** | 95%+ classification accuracy |
 | **Techniques** | Neural Networks, Data preprocessing, Model optimization |
@@ -380,7 +378,6 @@ OpenTo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkumar66343@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshkumar66343)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshkumar66343-a11y)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://adarshkumar.dev)
 
 </div>
 
